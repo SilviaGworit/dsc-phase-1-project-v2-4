@@ -56,4 +56,14 @@ rt.movie_info.tsv.gz​
 ## Exploratory Analysis
 ## objective 1 - Find the most poular genres​
 
+![download](https://github.com/SilviaGworit/dsc-phase-1-project-v2-4/assets/162307148/9b7e4b38-c182-48ae-8a4b-59efbb80cd69)
+
+## objective 2 - Find the most popular studios in the market​
+
+![download-3](https://github.com/SilviaGworit/dsc-phase-1-project-v2-4/assets/162307148/89a86ef1-2efc-4464-97eb-3c4a3570c9ec)
+
+## objective 3 - Know the relationship between the poduction budget and the worldwide gross
+
+![Budget vs Revenue](https://github.com/SilviaGworit/dsc-phase-1-project-v2-4/assets/162307148/7c766d34-aee9-4dfe-bad6-a707c4acd525)
+
 
